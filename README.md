@@ -1,4 +1,4 @@
-# projects
+
 
 
 #Marathi-Handwritten-Digit-Classification
