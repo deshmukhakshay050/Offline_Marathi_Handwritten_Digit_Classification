@@ -1,6 +1,4 @@
-#Marathi-Handwritten-Digit-Classification
-
-
+#Handwritten_Marathi_Digit_Classification
 
 
 #The model is trained with keras with input 60000 labeled samples for training.20000 samples were used for testing.On training i 
